@@ -2,10 +2,7 @@
 A github repository for the final workshop in intermediate software design.
 
 Team Members:
-Rushi Bhut (rushibhut)
-Max Lane (lmax20)
-John Nguyen (johnnguyen02)
-Patrick Walsh (walsh968)
+Rushi Bhut (rushibhut), Max Lane (lmax20), John Nguyen (johnnguyen02), Patrick Walsh (walsh968)
 
 Pros of Software Engineering with ChatGPT:
 - ChatGPT can be used for quickly prototyping an idea.
