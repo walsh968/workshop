@@ -1,0 +1,9 @@
+Dinachi Utah dinachi
+Ruba Babiker rubababiker
+Positive Aspects:
+The CSS styling is clean and makes the elements visually appealing and easy to interact with.
+The JavaScript functions for adding favorites, deleting them, and sharing the list makes the website functional
+
+Areas for Improvement:
+There could be more error handling for duplicate movie entries 
+The delete button's format differs from the other buttons.
